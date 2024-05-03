@@ -1,0 +1,12 @@
+Package: IPBH
+Type: Package
+Title: Inverse Power Burr-Hatke Distribution Functions
+Version: 0.1.0
+Date: 2024-05-03
+Author: Ethan Murra
+Maintainer: Ethan Murra <murra.ethan@gmail.com>
+Description: Density function, distribution function, quantile function,
+    and random variate generation for the Inverse Power Burr-Hatke distribution.
+License: GPL (>= 3)
+Imports: Rcpp (>= 1.0.12)
+LinkingTo: Rcpp
